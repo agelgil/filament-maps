@@ -1,11 +1,11 @@
 {
-    "name": "webbingbrasil/filament-maps",
+    "name": "agelgil/filament-maps",
     "description": "Map components for Filament.",
     "keywords": [
         "laravel",
         "filament"
     ],
-    "homepage": "https://github.com/webbingbrasil/filament-maps",
+    "homepage": "https://github.com/agelgil/filament-maps",
     "license": "MIT",
     "authors": [
         {
